@@ -15,7 +15,7 @@ Source codes for these projects are found in the folder "src".
 | 1. **Phone Book**      | Object-oriented phonebook application with ArrayList storage.                                       | [Source](src/PhoneBook/PhoneBook.java)           |
 | 2. **Area Calculator** | Area calculator app for common shapes (circles, rectangles, and cylinders).                         | [Source](src/AreaCalculator/AreaCalculator.java) |
 | 3. **Customer Entry**  | Object-oriented customer entry application demonstrating class inheritance.                         | [Source](src/CustomerEntry/Main.java)            |
-| 4. **Test Scores**     | Test scores average calculator with error handling.                                                 | [Source](src/CustomerEntry/Main.java)            |
+| 4. **Test Scores**     | Test scores average calculator with error handling.                                                 | [Source](src/TestScores/Main.java)            |
 | 5. **Recursive**       | Recursive linear search implementation that demonstrates basics of recursion.                       | [Source](src/Recursive/Recursive.java)           |
 | 6. **Bubble Sort**     | Recursive bubble sort implementation and visualizer.                                                | [Source](src/BubbleSort/BubbleSort.java)         |
 | 7. **My List**         | Enhanced ArrayList with comparable type restriction and added methods specifically for those types. | [Source](src/MyList/Main.java)                   |
